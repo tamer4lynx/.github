@@ -12,6 +12,6 @@ All packages are published under `@tamer4lynx` on npm.
 
 ## Links
 
-- [Documentation](https://tamer4lynx.github.io/docs/)
+- [Documentation](https://tamer4lynx.github.io)
 - [Main repository](https://github.com/tamer4lynx/tamer4lynx)
 - [npm scope](https://www.npmjs.com/org/tamer4lynx)
